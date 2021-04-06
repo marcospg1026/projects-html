@@ -1,0 +1,22 @@
+      padding: 10px; 
+} 
+div {
+    border: 5px solid maroon; 
+        text-align: center; 
+        padding: 5px; 
+}
+p.first {
+     color: red; 
+     margin: 10px; 
+     padding: 20px;
+} 
+p.second {
+     color: blue; 
+     margin: 10px; 
+     padding: 20px;
+}
+border: 5px solid darksalmon; 
+border-radius: 10px; 
+
+
+
