@@ -1,10 +1,21 @@
+body {
+    background: yellow; 
+        width: 800px;         /* Set the body width to 800 pixels */ 
+    margin: 200px auto; 
+} 
+h1{
+    background color: red;
+    color: maroon; 
+      text-align: center; 
+} 
+h2{
+background color:red;
+}
+p  {
+   color: #ff00ff;                    /* Set the foreground color to pink */ 
+      border: 1px solid gray; 
       padding: 10px; 
 } 
-div {
-    border: 5px solid maroon; 
-        text-align: center; 
-        padding: 5px; 
-}
 p.first {
      color: red; 
      margin: 10px; 
@@ -17,6 +28,6 @@ p.second {
 }
 border: 5px solid darksalmon; 
 border-radius: 10px; 
-
+font-size: 1.2em;  
 
 
